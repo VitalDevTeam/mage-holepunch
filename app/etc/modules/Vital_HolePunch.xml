@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Vital_HolePunch>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Vital_HolePunch>
+    </modules>
+</config>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <placeholders>
+        <header_cart_holepunch>
+            <block>checkout/cart_minicart</block>  <!--Mention the exact block you want to HolePunch -->
+            <name>header.cart.items</name>         <!-- Add the Name mentioned in XML when called the block -->
+            <placeholder>HEADER_CART_HOLEPUNCH</placeholder>   <!-- A Unique Key -->
+            <container>Vital_HolePunch_Model_Container_Headercart</container>  <!-- Call the Model -->
+            <cache_lifetime>5</cache_lifetime> 
+        </header_cart_holepunch>
+    </placeholders>
+</config>
